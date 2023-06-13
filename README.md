@@ -1,8 +1,8 @@
 # Praktikum 10: Pagination dan Pencarian
 
 ```bash
-Nama    : Rima Puji Lestari
-Nim     : 312110517
+Nama    : Alvian Saputra Pratama
+Nim     : 312110274
 Kelas   : TI.21.A3
 ```
 
